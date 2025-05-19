@@ -4,3 +4,5 @@ function myFunction() {
     sentence+= " and enjoy a lot.";
     document.getElementById("Concatenate").innerHTML = sentence;
 }
+
+
